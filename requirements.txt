@@ -1,0 +1,3 @@
+python-telegram-bot==20.7
+upstash-redis==0.15.0
+flask==3.0.0
